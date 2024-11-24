@@ -1,0 +1,62 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.home {
+    background-image: url('http://localhost//assets/images/Fundohome.png'); 
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
+    margin: 0; 
+    margin-left: 20px;
+    padding: 0; 
+}
+
+
+.form-cad-usuario {
+    padding: 100px 0 0 0;
+    position: relative;
+    text-align: center;
+}
+
+.form-esqueci-minha-senha {
+    margin-left: 8.3rem;
+    text-decoration: none;
+}
+
+.form-esqueci-minha-senha a {
+    text-decoration: none !important;
+}
+
+.form-esqueci-minha-senha a:hover {
+    color: #6DA741;
+    text-decoration: none;
+}
+
+#card-style {
+    width: 36rem;
+    height: 42rem; 
+    border-radius: 15px;
+    color: #1e1e1e;
+    text-decoration-color: #ffffff;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+

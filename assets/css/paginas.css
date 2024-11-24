@@ -1,0 +1,28 @@
+
+body {
+    font-family: 'Segoe UI', sans-serif; 
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+.container {
+    margin-top: 1.4rem; 
+    margin-left: 200px; 
+}
+
+
+.btn {
+    background-color: black; 
+    border: none; 
+    color: white; 
+}
+
+.btn:hover {
+    background-color: rgb(188, 20, 255); 
+}
+
+
+label {
+    font-weight: bold; 
+    color: #ffffff; 
+}
